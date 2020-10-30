@@ -1,0 +1,4 @@
+AuthName "RENSEIGNEZ CES CHAMPS POUR ACCEDER!"
+AuthType Basic
+AuthUserFile "PORTEFOLIO\.htpasswd"
+Require valid-user
